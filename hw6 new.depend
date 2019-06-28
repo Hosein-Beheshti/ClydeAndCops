@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1514242284 source:f:\new folder\hw6 new\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
+1516364319 source:f:\new folder\midterm project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<Windows.h>
+	<unistd.h>
+	<conio.h>
+
